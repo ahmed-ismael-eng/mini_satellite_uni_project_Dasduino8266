@@ -25,8 +25,8 @@
 // ============================================================================
 
 // WiFi Credentials - CHANGE THESE
-const char* WIFI_SSID = "DNA-WIFI-2C28";
-const char* WIFI_PASSWORD = "18554222";
+const char* WIFI_SSID = "WIFI NAME";
+const char* WIFI_PASSWORD = "PASSWORD";
 
 // Hardware Pin Definitions
 #define I2C_SDA         4     // GPIO4 (D2)
